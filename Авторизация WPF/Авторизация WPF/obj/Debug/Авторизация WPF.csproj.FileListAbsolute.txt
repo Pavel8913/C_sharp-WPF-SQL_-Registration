@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\проекты программирование\!WPF\Авторизация WPF\Авторизация WPF\bin\Debug\Авторизация WPF.exe.config
+C:\Users\User\Desktop\проекты программирование\!WPF\Авторизация WPF\Авторизация WPF\bin\Debug\Авторизация WPF.exe
+C:\Users\User\Desktop\проекты программирование\!WPF\Авторизация WPF\Авторизация WPF\bin\Debug\Авторизация WPF.pdb
+C:\Users\User\Desktop\проекты программирование\!WPF\Авторизация WPF\Авторизация WPF\obj\Debug\Авторизация WPF.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\проекты программирование\!WPF\Авторизация WPF\Авторизация WPF\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\проекты программирование\!WPF\Авторизация WPF\Авторизация WPF\obj\Debug\App.g.cs
+C:\Users\User\Desktop\проекты программирование\!WPF\Авторизация WPF\Авторизация WPF\obj\Debug\Авторизация WPF_MarkupCompile.cache
+C:\Users\User\Desktop\проекты программирование\!WPF\Авторизация WPF\Авторизация WPF\obj\Debug\Авторизация WPF_MarkupCompile.lref
+C:\Users\User\Desktop\проекты программирование\!WPF\Авторизация WPF\Авторизация WPF\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\проекты программирование\!WPF\Авторизация WPF\Авторизация WPF\obj\Debug\Авторизация WPF.g.resources
+C:\Users\User\Desktop\проекты программирование\!WPF\Авторизация WPF\Авторизация WPF\obj\Debug\Авторизация_WPF.Properties.Resources.resources
+C:\Users\User\Desktop\проекты программирование\!WPF\Авторизация WPF\Авторизация WPF\obj\Debug\Авторизация WPF.csproj.GenerateResource.cache
+C:\Users\User\Desktop\проекты программирование\!WPF\Авторизация WPF\Авторизация WPF\obj\Debug\Авторизация WPF.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\проекты программирование\!WPF\Авторизация WPF\Авторизация WPF\obj\Debug\Авторизация WPF.exe
+C:\Users\User\Desktop\проекты программирование\!WPF\Авторизация WPF\Авторизация WPF\obj\Debug\Авторизация WPF.pdb
+C:\Users\User\Desktop\проекты программирование\!WPF\Авторизация WPF\Авторизация WPF\obj\Debug\Add_form.g.cs
+C:\Users\User\Desktop\проекты программирование\!WPF\Авторизация WPF\Авторизация WPF\obj\Debug\Add_form.baml
